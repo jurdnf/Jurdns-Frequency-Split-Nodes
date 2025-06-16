@@ -1,0 +1,14 @@
+[project]
+name = "Jurdns-Frequency-Split-comfyNodes"
+description = "Split latent frequency domanin into 3 Bands and Recombine with varying weights."
+version = "1.0.0"
+license = { file = "LICENSE.txt" }
+
+[project.urls]
+Repository = "https://github.com/jurdnf/Jurdns-Frequency-Split-Nodes.git"
+
+
+[tool.comfy]
+PublisherId = "iamjurdn"
+DisplayName = "ComfyUI-JurdnsFrequencySplitNodes"
+includes = []
